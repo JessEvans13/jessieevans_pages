@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jessie Evans Art",
+    "description": "",
+    "home_page_url": "https://jessieevansart.co.uk",
+    "feed_url": "https://jessieevansart.co.uk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jessie Evans"
+    },
+    "items": [
+        {
+            "id": "https://jessieevansart.co.uk/welcome-to-my-website.html",
+            "url": "https://jessieevansart.co.uk/welcome-to-my-website.html",
+            "title": "Welcome to my website!",
+            "summary": "Thanks for looking at my website! This blog is where I will&hellip;",
+            "content_html": "<p>Thanks for looking at my website! This blog is where I will write about what I'm working on at the moment, my printmaking adventures and the things I learn along the way. Keep an eye on this section if you're interested in what I've got coming up and other printmaking musings!</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jessieevansart.co.uk/media/posts/6/PXL_20250604_161522767~2.jpg\" alt=\"Overhead shot of table with dried flowers and flower press\" width=\"3305\" height=\"4032\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jessieevansart.co.uk/media/posts/6/responsive/PXL_20250604_161522767~2-xs.jpg 300w ,https://jessieevansart.co.uk/media/posts/6/responsive/PXL_20250604_161522767~2-sm.jpg 480w ,https://jessieevansart.co.uk/media/posts/6/responsive/PXL_20250604_161522767~2-md.jpg 768w ,https://jessieevansart.co.uk/media/posts/6/responsive/PXL_20250604_161522767~2-lg.jpg 1024w\"></figure>",
+            "image": "https://jessieevansart.co.uk/media/posts/6/PXL_20250620_185038444~4.jpg",
+            "author": {
+                "name": "Jessie Evans"
+            },
+            "tags": [
+                   "blog"
+            ],
+            "date_published": "2025-06-21T12:04:20+01:00",
+            "date_modified": "2025-06-21T12:11:39+01:00"
+        }
+    ]
+}

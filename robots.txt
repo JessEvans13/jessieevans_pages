@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jessieevansart.co.uk/sitemap.xml
